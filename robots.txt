@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itsukiken1.github.io/shipcalc/sitemap.xml
+Sitemap: https://itsukiken1.github.io/bulkcalc/sitemap.xml
+Sitemap: https://itsukiken1.github.io/aihm/sitemap.xml
+Sitemap: https://itsukiken1.github.io/sourcecalc/landing/sitemap.xml
